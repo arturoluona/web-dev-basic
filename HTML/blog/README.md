@@ -1,7 +1,6 @@
 # Make a blog
 
-<img src="" alt="blog" width="300">
-![SaitamaOkGIF](https://user-images.githubusercontent.com/56488686/162636798-d4abc71d-6ee7-4b61-abfe-14953a9cf88b.gif)
+<img src="https://user-images.githubusercontent.com/56488686/162636798-d4abc71d-6ee7-4b61-abfe-14953a9cf88b.gif" alt="blog" width="300">
 
 This is an example of blog, please make a blog with all tags learned
 
